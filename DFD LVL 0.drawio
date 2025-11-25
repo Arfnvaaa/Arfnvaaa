@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36" version="29.1.1">
   <diagram name="Page-1" id="j5O6XfbVVQPbcANgqkeL">
-    <mxGraphModel dx="2076" dy="828" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1718" dy="587" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -97,6 +97,9 @@
         <mxCell id="z9TJnKxcrndpUfQPWwxa-22" parent="z9TJnKxcrndpUfQPWwxa-29" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Input Kwitansi Pembayaran" vertex="1">
           <mxGeometry height="30" width="60" x="30" y="45" as="geometry" />
         </mxCell>
+        <mxCell id="AjrfbeG-nzTHjA0II1el-23" parent="z9TJnKxcrndpUfQPWwxa-29" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="2p" vertex="1">
+          <mxGeometry height="30" width="60" x="30" y="15" as="geometry" />
+        </mxCell>
         <mxCell id="z9TJnKxcrndpUfQPWwxa-32" connectable="0" parent="1" style="group" value="" vertex="1">
           <mxGeometry height="120" width="120" x="340" y="1010" as="geometry" />
         </mxCell>
@@ -105,6 +108,9 @@
         </mxCell>
         <mxCell id="z9TJnKxcrndpUfQPWwxa-18" parent="z9TJnKxcrndpUfQPWwxa-32" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Verifikasi Data Pasien" vertex="1">
           <mxGeometry height="30" width="60" x="30" y="45" as="geometry" />
+        </mxCell>
+        <mxCell id="AjrfbeG-nzTHjA0II1el-24" parent="z9TJnKxcrndpUfQPWwxa-32" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="3p" vertex="1">
+          <mxGeometry height="30" width="60" x="30" y="15" as="geometry" />
         </mxCell>
         <mxCell id="z9TJnKxcrndpUfQPWwxa-35" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;rotation=-90;" value="Data Hasil Pemeriksaan" vertex="1">
           <mxGeometry height="30" width="60" x="370" y="150" as="geometry" />
@@ -169,6 +175,9 @@
         <mxCell id="G_uNR2ngaEQiUP5r_csc-4" parent="G_uNR2ngaEQiUP5r_csc-2" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Menerima Kwitansi Pembayaran" vertex="1">
           <mxGeometry height="30" width="60" x="30" y="45" as="geometry" />
         </mxCell>
+        <mxCell id="AjrfbeG-nzTHjA0II1el-25" parent="G_uNR2ngaEQiUP5r_csc-2" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="4p" vertex="1">
+          <mxGeometry height="30" width="60" x="30" y="15" as="geometry" />
+        </mxCell>
         <mxCell id="G_uNR2ngaEQiUP5r_csc-5" connectable="0" parent="1" style="group" value="" vertex="1">
           <mxGeometry height="120" width="120" x="80" y="1010" as="geometry" />
         </mxCell>
@@ -177,6 +186,9 @@
         </mxCell>
         <mxCell id="G_uNR2ngaEQiUP5r_csc-7" parent="G_uNR2ngaEQiUP5r_csc-5" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Input Data Identitas Pasien&amp;nbsp;" vertex="1">
           <mxGeometry height="30" width="60" x="30" y="45" as="geometry" />
+        </mxCell>
+        <mxCell id="AjrfbeG-nzTHjA0II1el-22" parent="G_uNR2ngaEQiUP5r_csc-5" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="1p" vertex="1">
+          <mxGeometry height="30" width="60" x="30" y="15" as="geometry" />
         </mxCell>
         <mxCell id="G_uNR2ngaEQiUP5r_csc-8" connectable="0" parent="1" style="group" value="" vertex="1">
           <mxGeometry height="120" width="120" x="670" y="1280" as="geometry" />
@@ -187,6 +199,9 @@
         <mxCell id="G_uNR2ngaEQiUP5r_csc-10" parent="G_uNR2ngaEQiUP5r_csc-8" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Menentukan Metode Pembayaran" vertex="1">
           <mxGeometry height="30" width="60" x="30" y="45" as="geometry" />
         </mxCell>
+        <mxCell id="AjrfbeG-nzTHjA0II1el-26" parent="G_uNR2ngaEQiUP5r_csc-8" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="5*" vertex="1">
+          <mxGeometry height="30" width="60" x="30" y="15" as="geometry" />
+        </mxCell>
         <mxCell id="G_uNR2ngaEQiUP5r_csc-11" connectable="0" parent="1" style="group" value="" vertex="1">
           <mxGeometry height="120" width="120" x="630" y="1020" as="geometry" />
         </mxCell>
@@ -195,6 +210,9 @@
         </mxCell>
         <mxCell id="G_uNR2ngaEQiUP5r_csc-13" parent="G_uNR2ngaEQiUP5r_csc-11" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Input Pembayaran &amp;amp; Konfirmasi" vertex="1">
           <mxGeometry height="30" width="60" x="30" y="45" as="geometry" />
+        </mxCell>
+        <mxCell id="AjrfbeG-nzTHjA0II1el-27" parent="G_uNR2ngaEQiUP5r_csc-11" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="6*" vertex="1">
+          <mxGeometry height="30" width="60" x="30" y="15" as="geometry" />
         </mxCell>
         <mxCell id="G_uNR2ngaEQiUP5r_csc-14" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
