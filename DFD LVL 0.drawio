@@ -172,7 +172,7 @@
         <mxCell id="AjrfbeG-nzTHjA0II1el-30" parent="AjrfbeG-nzTHjA0II1el-28" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Pembayaran Cash" vertex="1">
           <mxGeometry height="30" width="60" x="30" y="45" as="geometry" />
         </mxCell>
-        <mxCell id="AjrfbeG-nzTHjA0II1el-31" parent="AjrfbeG-nzTHjA0II1el-28" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="1.1p" vertex="1">
+        <mxCell id="AjrfbeG-nzTHjA0II1el-31" parent="AjrfbeG-nzTHjA0II1el-28" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="3.1p" vertex="1">
           <mxGeometry height="30" width="60" x="30" y="15" as="geometry" />
         </mxCell>
         <mxCell id="AjrfbeG-nzTHjA0II1el-32" connectable="0" parent="1" style="group" value="" vertex="1">
@@ -184,7 +184,7 @@
         <mxCell id="AjrfbeG-nzTHjA0II1el-34" parent="AjrfbeG-nzTHjA0II1el-32" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Pembayaran Non-Cash" vertex="1">
           <mxGeometry height="30" width="60" x="30" y="45" as="geometry" />
         </mxCell>
-        <mxCell id="AjrfbeG-nzTHjA0II1el-35" parent="AjrfbeG-nzTHjA0II1el-32" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="1.2p" vertex="1">
+        <mxCell id="AjrfbeG-nzTHjA0II1el-35" parent="AjrfbeG-nzTHjA0II1el-32" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="3.2p" vertex="1">
           <mxGeometry height="30" width="60" x="30" y="15" as="geometry" />
         </mxCell>
         <mxCell id="AjrfbeG-nzTHjA0II1el-37" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;" value="">
