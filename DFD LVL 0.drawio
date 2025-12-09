@@ -76,7 +76,7 @@
         <mxCell id="z9TJnKxcrndpUfQPWwxa-22" parent="z9TJnKxcrndpUfQPWwxa-29" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Input Kwitansi Pembayaran" vertex="1">
           <mxGeometry height="30" width="60" x="30" y="45" as="geometry" />
         </mxCell>
-        <mxCell id="AjrfbeG-nzTHjA0II1el-23" parent="z9TJnKxcrndpUfQPWwxa-29" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="3p" vertex="1">
+        <mxCell id="AjrfbeG-nzTHjA0II1el-23" parent="z9TJnKxcrndpUfQPWwxa-29" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="2p" vertex="1">
           <mxGeometry height="30" width="60" x="30" y="15" as="geometry" />
         </mxCell>
         <mxCell id="z9TJnKxcrndpUfQPWwxa-35" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;rotation=-90;" value="Data Hasil Pemeriksaan" vertex="1">
@@ -136,7 +136,7 @@
         <mxCell id="G_uNR2ngaEQiUP5r_csc-7" parent="G_uNR2ngaEQiUP5r_csc-5" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Menentukan Metode Pembayaran" vertex="1">
           <mxGeometry height="30" width="60" x="30" y="45" as="geometry" />
         </mxCell>
-        <mxCell id="AjrfbeG-nzTHjA0II1el-22" parent="G_uNR2ngaEQiUP5r_csc-5" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="2p" vertex="1">
+        <mxCell id="AjrfbeG-nzTHjA0II1el-22" parent="G_uNR2ngaEQiUP5r_csc-5" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="3*" vertex="1">
           <mxGeometry height="30" width="60" x="30" as="geometry" />
         </mxCell>
         <mxCell id="G_uNR2ngaEQiUP5r_csc-8" connectable="0" parent="1" style="group" value="" vertex="1">
